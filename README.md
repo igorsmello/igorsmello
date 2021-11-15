@@ -1,9 +1,13 @@
 ### Olá, eu sou o Igor!
 
-💻 Trabalho atualmente como digitador<br>
-👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio<br>
-👨‍💻 Estudando JavaScript atualmente<br>
-📪 Entre em contato comigo pelo e-mail: contatoigormello@hotmail.com<br>
+💻 Trabalho atualmente como digitador
+<br>
+👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
+<br>
+👨‍💻 Estudando JavaScript atualmente
+<br>
+📪 Entre em contato comigo pelo e-mail: contatoigormello@hotmail.com
+<br>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorSMello)](https://git.io/streak-stats)
