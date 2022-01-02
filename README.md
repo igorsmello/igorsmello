@@ -1,6 +1,6 @@
 ### Olá, eu sou o Igor!
 
-💻 Trabalho atualmente como digitador
+💻 Trabalho atualmente como digitador e programador front-end
 <br>
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
