@@ -1,6 +1,6 @@
 ### Olá, eu sou o Igor!
 
-💻 Trabalho atualmente como Digitador e Desenvolvedor Front-end
+💻 Trabalho atualmente como Desenvolvedor Front-end Freelance
 <br>
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
