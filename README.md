@@ -1,26 +1,44 @@
-### Olá, eu sou o Igor!
+### Olá, eu sou o Igor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
-👨‍💻 Estudando Python atualmente
+🧑‍💻 Estudando Python e C atualmente
 <br>
-📪 Entre em contato comigo pelo e-mail: contatoigormello@hotmail.com
+👨‍💻 Todos os meus projetos estão disponíveis em <a target="_blank" href="igorsmello.github.io/website">igorsmello.github.io/website</a>
+<br>
+📪 Entre em contato comigo pelo e-mail: <a target="_blank" href="mailto: contatoigormello@hotmail.com">contatoigormello@hotmail.com</a>
 <br><br>
 
-<a target="_blank" href="https://igorsmello.github.io/website/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a><br>
-<a target="_blank" href="https://www.linkedin.com/in/igorsoaresdemello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorSMello)](https://git.io/streak-stats)
-<br>
+<br><br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)<br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=igorsmello&show_icons=true&theme=vision-friendly-dark" alt="Igor Stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsmello&layout=compact&theme=vision-friendly-dark" alt="Igor Linguagens usadas"/>
+</p>
+
+<br><br>
+
+
+
+
+
+
+
