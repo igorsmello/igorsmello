@@ -2,7 +2,7 @@
 
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
-👨‍💻 Estudando JavaScript atualmente
+👨‍💻 Estudando Python atualmente
 <br>
 📪 Entre em contato comigo pelo e-mail: contatoigormello@hotmail.com
 <br><br>
