@@ -15,6 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=markdown)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -23,6 +24,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 
 
 <br><br>
