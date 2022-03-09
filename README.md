@@ -2,8 +2,6 @@
 
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
-🧑‍💻 Estudando Python atualmente
-<br>
 👨‍💻 Todos os meus projetos estão disponíveis em <a target="_blank" href="igorsmello.github.io/website">igorsmello.github.io/website</a>
 <br>
 📪 Entre em contato comigo pelo e-mail: <a target="_blank" href="mailto: contatoigormello@hotmail.com">contatoigormello@hotmail.com</a>
@@ -16,7 +14,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=markdown)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
