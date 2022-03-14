@@ -2,7 +2,7 @@
 
 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas pela Estácio
 <br>
-👨‍💻 Todos os meus projetos estão disponíveis em <a target="_blank" href="igorsmello.github.io/website">igorsmello.github.io/website/</a>
+👨‍💻 Todos os meus projetos estão disponíveis em <a target="_blank" href="igorsmello.github.io/website">https://igorsmello.github.io/website/</a>
 <br>
 📪 Entre em contato comigo pelo e-mail: <a target="_blank" href="mailto: contatoigormello@hotmail.com">contatoigormello@hotmail.com</a>
 <br><br>
