@@ -8,6 +8,7 @@
 <br>
 📪 Entre em contato comigo pelo e-mail: <a target="_blank" href="mailto: contatoigormello@hotmail.com">contatoigormello@hotmail.com</a>
 <br><br>
+📪 Linkedin: linkedin.com/in/igorsoaresdemello/
 
 ## 🛠 &nbsp;Tech Stack
 
